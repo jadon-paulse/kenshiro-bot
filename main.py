@@ -103,4 +103,4 @@ async def on_ready():
                 if time.minute == 1:
                     await client.get_channel(559631764415578114).send(f"Konbanwa")
 
-client.run('ODQxNjQ5MjE2OTU3ODQxNDA4.YJp06g.XLRysaS8TNNhtfi9KmZvtIfF5-k')
+client.run('ODQxNjQ5MjE2OTU3ODQxNDA4.YJp06g.ZJjG3pMyYo3zqKU6dpXeXXifk8A')
